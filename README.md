@@ -1,2 +1,0 @@
-# code_api
-fastapi
